@@ -1,4 +1,3 @@
-import 'dart:typed_data';
 import 'dart:ui' as ui show Codec;
 
 import 'package:awesome_notifications/src/awesome_notifications_core.dart';
